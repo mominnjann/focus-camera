@@ -76,4 +76,3 @@ This is a lightweight demo intended for experimentation and prototyping only.
 
 ---
 
-If you'd like, I can add a `requirements.txt`, example screenshots, or a short usage GIF. Let me know which you'd prefer. ✨
